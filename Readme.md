@@ -1,4 +1,4 @@
-# Project Name
+# COLAB DOC EDITOR
 
 Brief description of what the app does.
 
